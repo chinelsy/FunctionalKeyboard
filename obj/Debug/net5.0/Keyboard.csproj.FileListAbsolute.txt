@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\Keyboard\bin\Debug\net5.0\Keyboard.exe
+C:\Users\hp\source\repos\Keyboard\bin\Debug\net5.0\Keyboard.deps.json
+C:\Users\hp\source\repos\Keyboard\bin\Debug\net5.0\Keyboard.runtimeconfig.json
+C:\Users\hp\source\repos\Keyboard\bin\Debug\net5.0\Keyboard.runtimeconfig.dev.json
+C:\Users\hp\source\repos\Keyboard\bin\Debug\net5.0\Keyboard.dll
+C:\Users\hp\source\repos\Keyboard\bin\Debug\net5.0\ref\Keyboard.dll
+C:\Users\hp\source\repos\Keyboard\bin\Debug\net5.0\Keyboard.pdb
+C:\Users\hp\source\repos\Keyboard\obj\Debug\net5.0\Keyboard.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Keyboard\obj\Debug\net5.0\Keyboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Keyboard\obj\Debug\net5.0\Keyboard.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Keyboard\obj\Debug\net5.0\Keyboard.AssemblyInfo.cs
+C:\Users\hp\source\repos\Keyboard\obj\Debug\net5.0\Keyboard.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Keyboard\obj\Debug\net5.0\Keyboard.dll
+C:\Users\hp\source\repos\Keyboard\obj\Debug\net5.0\ref\Keyboard.dll
+C:\Users\hp\source\repos\Keyboard\obj\Debug\net5.0\Keyboard.pdb
+C:\Users\hp\source\repos\Keyboard\obj\Debug\net5.0\Keyboard.genruntimeconfig.cache
